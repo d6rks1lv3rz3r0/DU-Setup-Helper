@@ -13,9 +13,11 @@ Provides a simple helper to direct industry setup instructions for newly deploye
 
 4) Add a header row so your export looks like the following in Excel or Sheets:
 
+
 | Industry | X | Y | Z | ID | Recipe | Mode |
-| ------------- | ------------- |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | smelter  | 9.508877077  | -4 | -6.003804552  | 95  |   |  |
+
 
 5) Use an online converter to convert this table to Lua, such as the one at https://thdoan.github.io/mr-data-converter/
 
