@@ -1,6 +1,8 @@
 # DU-Setup-Helper
 Provides a simple helper to direct industry setup instructions for newly deployed factory blueprints in Dual Universe. 
 
+![Example HUD](/HUD example.png)
+
 # Rough Draft for Setup by Factory Owner
 
 ## Export Stage
